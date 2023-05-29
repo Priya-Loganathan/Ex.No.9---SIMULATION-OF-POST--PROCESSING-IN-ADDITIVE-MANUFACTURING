@@ -47,8 +47,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: DELI PRIYA L
+### Register Number: 212222230029
+ 
+ ![image](https://github.com/Priya-Loganathan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/121166075/bd5b67a3-2db9-44b7-bdd5-f6967d9d346e)
+![image](https://github.com/Priya-Loganathan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/121166075/34875df6-bbbc-4d71-be5d-cd308a911660)
+![image](https://github.com/Priya-Loganathan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/121166075/8e254dac-cfb2-4adf-9969-58ef52958126)
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
